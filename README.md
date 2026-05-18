@@ -160,6 +160,12 @@ Full API documentation available at:
 **Issue:** Streamlit connection error  
 **Solution:** Ensure backend is running on port 8000
 
+## Live Demo
+
+Backend - https://code-orbit-ai.onrender.com/
+
+Frontend - https://codeorbitai-aadj9flhdqzs2ntljrrr79.streamlit.app/
+
 ---
 
 ## 📝 License

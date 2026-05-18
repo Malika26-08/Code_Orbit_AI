@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn
+requests
+httpx
+python-dotenv
+pydantic
+pydantic-settings
+plotly
+gitpython
+groq
+aiofiles
+python-multipart
+loguru
+chardet

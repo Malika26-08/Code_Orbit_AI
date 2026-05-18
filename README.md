@@ -186,6 +186,4 @@ It helps us reach more developers and improve the project.
 
 **Made with 🚀 for developers, by developers**
 
-[Website](https://codeorbit.ai) • [Documentation](docs/) • [API](docs/API.md) • [Demo](https://demo.codeorbit.ai)
-
 </div>

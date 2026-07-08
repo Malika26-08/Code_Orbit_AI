@@ -2,6 +2,7 @@
 
 > **An AI-powered GitHub Repository Intelligence Assistant built using Large Language Models (LLMs), LangChain, FastAPI, FAISS, and Streamlit.**  
 > Understand any GitHub repository in minutes, not hours.
+> 🏆 Built during the **IBM Bob × lablab.ai Hackathon** using **LangChain, OpenAI GPT-4, FAISS, FastAPI, and Streamlit** to simplify GitHub repository understanding through AI-powered analysis.
 
 <p align="center">
 
@@ -71,6 +72,14 @@ CodeOrbit AI is an intelligent assistant that:
 - Suggest improvements
 
 ---
+
+## 🏆 Hackathon
+
+This project was developed as part of the **IBM Bob × lablab.ai Hackathon**.
+
+The goal was to build an AI-powered solution that helps developers understand unfamiliar GitHub repositories through intelligent code analysis, repository chat, automated documentation generation, and developer onboarding.
+
+The project demonstrates practical applications of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), semantic search, and modern AI development tools.
 
 ## 🏗️ Architecture
 

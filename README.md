@@ -1,7 +1,13 @@
 # 🚀 CodeOrbit AI
 
-> **AI-Powered Repository Intelligence Assistant**  
+> **An AI-powered GitHub Repository Intelligence Assistant built using Large Language Models (LLMs), LangChain, FastAPI, FAISS, and Streamlit.**  
 > Understand any GitHub repository in minutes, not hours.
+
+<p align="center">
+
+<img src="codeorbitAi.jpeg">
+
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
@@ -119,28 +125,30 @@ CodeOrbit AI is an intelligent assistant that:
 
 ## 📖 Usage
 
-### 1. Analyze a Repository
+✔ Codebase Search
 
-1. Enter a GitHub repository URL
-2. Click "Analyze Repository"
-3. Wait for analysis to complete (1-3 minutes)
-4. View comprehensive summary and statistics
+✔ Semantic Search
 
-### 2. Chat with Your Repository
+✔ Embedding-based Retrieval
 
-1. Navigate to the Chat page
-2. Ask questions about the codebase
-3. Get instant, context-aware answers
-4. View relevant code snippets
+✔ Context-aware Chat
 
-### 3. Generate Documentation
+✔ Repository Statistics
 
-1. Go to the Documentation page
-2. Select document type (README, Onboarding, etc.)
-3. Click "Generate"
-4. Preview and download
+✔ Architecture Analysis
 
+✔ Intelligent Documentation
 
+✔ Developer Onboarding
+
+## 🎓 Learning Outcomes
+
+- Built a Retrieval-Augmented Generation (RAG) application.
+- Worked with Large Language Models.
+- Implemented semantic search using FAISS.
+- Integrated FastAPI with Streamlit.
+- Developed AI-powered developer tools.
+- Improved understanding of repository intelligence systems.
 
 ## Live Demo
 
@@ -172,13 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email:** harmaienmalika@gmail.com
 
----
-
-## ⭐ Star Us!
-
-If you find CodeOrbit AI helpful, please give us a star! ⭐
-
-It helps us reach more developers and improve the project.
+- **LinkedIn:** linkedin.com/in/malika-harmaien
 
 ---
 
